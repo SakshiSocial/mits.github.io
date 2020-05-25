@@ -1,0 +1,364 @@
+body{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 4%;
+    padding:0;
+    background: linear-gradient(white 40%, rgb(209, 209, 209));
+    background-attachment: fixed;
+}
+h1{
+    color:#003399;
+    letter-spacing:-3px;
+    margin-left: 150px;
+    margin-top: -100px;
+    font-stretch:narrower;
+}
+.head{
+    margin-left: 150px;
+    margin-top: -20px;
+    color:#003399;
+}
+ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    font-weight:bold;
+    font-family: sans-serif;
+    font-size:15px;
+}
+.in{
+    display:inline-block;
+    width:120px;
+    height:40px;
+    background-color:white;
+    text-decoration: overline lightgray;
+}
+.ins{
+    display:inline-block;
+    width:120px;
+    height:40px;
+    background-color:white;
+    text-decoration: overline lightgray;
+    block-size: auto;
+}
+.inst{
+    display:inline-block;
+    width:120px;
+    height:40px;
+    background-color:white;
+    text-decoration: overline lightgray;
+    block-size: auto;
+}
+.insti{
+    display:inline-block;
+    width:200px;
+    height:40px;
+    background-color:white;
+    text-decoration: overline lightgray; 
+    block-size: auto;
+    margin-block-start: 5px;
+}
+.instit{
+    display:inline-block;
+    width:200px;
+    height:40px;
+    background-color:white;
+    text-decoration: overline lightgray; 
+    block-size: auto;
+    margin-block-start: 5px;
+}
+.institu{
+    display:inline-block;
+    width:160px;
+    height:40px;
+    background-color:white;
+    text-decoration: overline lightgray;
+    block-size: auto;
+    margin-block-start: 5px; 
+}
+.institut{
+    display:inline-block;
+    width:160px;
+    height:40px;
+    background-color:white;
+    text-decoration: overline lightgray;
+    block-size: auto;
+    margin-block-start: 5px; 
+}
+.para{
+    margin-left: 120px;
+    margin-top:-110px;
+    color:#83a1dd;
+    font-size:17px;
+    font-family: sans-serif;
+    font-weight: 50;
+}
+.paraa{
+    color:#83a1dd;
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 50;
+}
+.image{
+    margin-left: 320px;
+    margin-top: -290px;
+}
+.myslide{
+    display:none;
+}
+.one{
+    background-color: orangered;
+    color:white;
+    font-size: x-large;
+    margin-left:930px;
+    text-align: center;
+    margin-top:-320px;
+}
+.vision{
+    font-style: italic;
+    font-weight: bolder;
+    word-spacing: -3px;
+    margin-left:930px;
+    font-size: 13.5px;
+    margin-top:-20px
+}
+.two{
+    background-color: blue;
+    color:white;
+    font-size: x-large;
+    margin-left:930px;
+    text-align: center;
+    margin-top:-60px;
+}
+.mission{
+    font-style: italic;
+    font-weight: bolder;
+    word-spacing: -3px;
+    margin-left:930px;
+    font-size: 13.5px;
+    margin-top:5px;    
+}
+.three{
+    background-color: green;
+    color:white;
+    font-size: x-large;
+    margin-left:930px;
+    text-align: center;
+    margin-top:-8px;
+}
+.brand{
+    font-style: italic;
+    font-weight: bolder;
+    word-spacing: -3px;
+    margin-left:930px;
+    font-size: 13.5px;
+    margin-top:2px 
+}
+.new{
+   margin-left:230px; 
+   font-family: sans-serif;
+   color:blue;
+   font-weight: bold;
+}
+.down1content{
+    display:none;
+    position:absolute;
+    background-color:white;
+    z-index: 1;
+}
+.down1content a{
+    color:black;
+    padding:12px 16px;
+    text-decoration:none;
+    display:block;
+}
+li:hover{
+    color:red;
+}
+.fa {
+    padding: 15px;
+    font-size: 40px;
+    width: 7px;
+    height:7px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background:#3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: rgb(230, 12, 121);
+    color: white;
+  }
+  .other{
+      font-family: sans-serif;
+      font-weight: bold;
+      font-size:large;
+      text-align:left;
+      background-size:auto;
+      margin-right: 950px;
+      margin-top:-230px;
+  }
+  #ma{
+      background-color:rgb(72, 156, 72);
+      margin-top:400px;
+      padding:10px;
+  }
+  #mad{
+    background-color:pink;
+    margin-top:-10px;
+    padding:10px;
+  }
+  #madh{
+    background-color:salmon;
+    margin-top:-10px;
+    padding:10px;
+  }
+  #madha{
+    background-color:rgb(0, 140, 255);
+    margin-top:-10px;
+    padding:10px;
+  }
+  #madhav{
+    background-color:rgb(37, 180, 37);
+    margin-top:-10px;
+    padding:10px;
+  }
+  #madhavi{
+    background-color:orange;
+    margin-top:-10px;
+    padding:10px;
+  }
+  #m{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:large;
+    position:absolute;
+    margin-top:-25px;
+  }
+  .scroll{
+    height:260px;
+    width:530px;
+    border:1px solid #ccc;
+    font:16px/26px Georgia, Garamond, Serif;
+    overflow:auto;
+    margin-left:330px;
+    margin-top:-300px;
+    position:absolute;
+  }
+  #campus{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size:large;
+    margin-left:340px;
+    margin-top:-320px;
+    position:absolute;
+  }
+  #download{
+      margin-left:950px;
+      font-family: sans-serif;
+      font-size: large;
+      font-weight: bold;
+      margin-top:-330px;
+      position:absolute;
+  }
+  .divi{
+      margin-left:950px;
+      position:absolute;
+      margin-top:-300px;
+  }
+  .buttons{
+      border-bottom: grey;
+  }
+  #all{
+      padding:10px;
+      border:none white;
+      width:150px;
+      height:50px;
+      color:#003399;
+      background:rgb(192, 192, 192);
+      font-family: Arial, Helvetica, sans-serif;
+      font-weight: bold;
+      font-size:15px;
+      border-bottom: 1px solid grey;
+  }
+  #academic{
+    padding:10px;
+    border:none white;
+    width:150px;
+    height:50px;
+    color:#003399;
+    background:rgb(192, 192, 192);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:15px;
+    border-bottom: 1px solid grey;
+  }
+  #exam{
+    padding:10px;
+    border:none white;
+    width:150px;
+    height:50px;
+    color:#003399;
+    background:rgb(192, 192, 192);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:15px;
+    border-bottom: 1px solid grey;
+  }
+  #tender{
+    padding:10px;
+    border:none white;
+    width:150px;
+    height:50px;
+    color:#003399;
+    background:rgb(192, 192, 192);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:15px;
+    border-bottom: 1px solid grey;
+  }
+  #recruitment{
+    padding:10px;
+    border:none white;
+    width:150px;
+    height:50px;
+    color:#003399;
+    background:rgb(192, 192, 192);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:15px;
+    border-bottom: 1px solid grey;
+  }
+  #all:hover, #academic:hover,#exam:hover, #tender:hover, #recruitment:hover{
+      opacity:0.5;
+  }
+  #all:active, #academic:active,#exam:active, #tender:active, #recruitment:active{
+      color:black;
+      background:white;
+  }
+  
+
+
